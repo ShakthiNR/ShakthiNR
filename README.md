@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **full stack development projects**
 
-- 🌱 I’m currently learning **Angular, React Native**
+- 🌱 I’m currently learning **Next Js, React Native**
 
 - 💬 Ask me about **react, angular, node js, javascript, typescript**
 
