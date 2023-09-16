@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact
   <p> const makeRoutine = (🌞, 🌕) => <💻 /></p>
-  <p> this.🌍.subscribe((📈)=> this.🧑🏻‍💻 = 📈) </p>
+  <p> this.🌍.subscribe( (📈) => this.🧑🏻‍💻 = 📈) </p>
    
 
 <h3 align="left">Connect with me:</h3>
