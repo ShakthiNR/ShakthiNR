@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning and building app using **Next Js, React Native**
 
-- 💬 Ask me about **react, angular, node js, javascript, typescript, web development**
+- 💬 Ask me about **React js, Angular, Node js, Javascript, Typescript, web development**
 
 - 📫 How to reach me **shakthinaarayanan@gmail.com**
 
