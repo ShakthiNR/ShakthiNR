@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Sc3VDv296geHEEGerqhdsxAQe08R6KUk/view?usp=drive_link](https://drive.google.com/file/d/1Sc3VDv296geHEEGerqhdsxAQe08R6KUk/view?usp=drive_link)
 
-- ⚡ Fun facts
+- ⚡ Fun facts:
   <p> const makeRoutine = (🌞, 🌕) => <💻 /></p>
   <p> this.🌍.subscribe( (📈) => this.🧑🏻‍💻 = 📈) </p>
    
