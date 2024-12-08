@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shakthinaarayanan@gmail.com**
 
-- 📄 Know more [my-website](https://www.shakthinr.in)
+- 📄 Know more [https://www.shakthinr.in](https://www.shakthinr.in)
 
 - 💿 [view](https://www.npmjs.com/~shakthi-nr) my npm profile
 
