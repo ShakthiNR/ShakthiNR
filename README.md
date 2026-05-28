@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shakthi NR</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Full Stack AI Developer from India</h3>
 
-- 🔭 I’m currently working on **full stack development projects**
+- 🔭 I’m currently working on **full stack development and AI-related projects**
 
-- 🌱 I’m currently learning and building applications using **Next Js** and **Nest Js**  and learning **AI/ML**
+- 🌱 I’m currently learning and building applications using **AI** and learning **AI/ML**
 
-- 💬 Ask me about **React js, Angular, Node js, Javascript, Typescript, Web Development**
+- 💬 Ask me about **React js, Angular, Node js, Javascript, Typescript, App Development, AI**
 
 - 📫 How to reach me **shakthinaarayanan@gmail.com**
 
