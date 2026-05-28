@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakthi NR</h1>
-<h3 align="center">A passionate Full Stack AI Developer from India</h3>
+<h3 align="center">A Passionate Full Stack AI Developer from India</h3>
 
 - 🔭 I’m currently working on **full stack development and AI-related projects**
 
