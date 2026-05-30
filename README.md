@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning and building applications using **AI** and learning **AI/ML**
 
-- 💬 Ask me about **React js, Angular, Node js, Javascript, Typescript, App Development, AI**
+- 💬 Ask me about **System Design, React js, Angular, Node js, Javascript, Typescript, App Development, AI**
 
 - 📫 How to reach me **shakthinaarayanan@gmail.com**
 
